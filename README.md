@@ -4,11 +4,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://pedrocelotto.github.io/QR-code-component-frontendmentor/" color="white">
+    <a href="https://pedrocelotto.github.io/QRCodeComponent-FrontendMentor/" color="white">
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">
+    <a href="https://www.frontendmentor.io/solutions/qrcode-component-frontend-mentor-KRnBh9Yj16">
       Solution
     </a>
    <span> | </span>
@@ -52,4 +52,4 @@ Very easy project for someone who recently stepped in the world of development! 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/qr-code-component-g0YvCa7rB">solution</a>. It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/qrcode-component-frontend-mentor-KRnBh9Yj16">solution</a>. It definitely helps to find new ways to code and find easier solutions!
