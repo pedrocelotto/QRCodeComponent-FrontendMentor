@@ -44,7 +44,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ## What I learned
 
-Very easy project for someone who recently stepped in the world of development! The only issue I had was the height of flex container as it looked different in Safari. So I changed approach a little bit - that's why I had many changes in this simple project.
+Very easy project for someone who recently stepped in the world of development!
 
 ## Useful resources
 
